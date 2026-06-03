@@ -22,7 +22,7 @@ El sistema está respaldado por un modelo relacional compuesto por 7 entidades p
 
 - **Pacientes:** Pueden agendar y consultar sus citas médicas.
 - **Médicos:** Atienden a los pacientes basándose en su especialidad y horario asignado. Cuentan con una sesión personal para visualizar sus consultas.
-- **Administrador:** Rol encargado de gestionar la plantilla de doctores, los consultorios disponibles y las especialidades del hospital.
+- **Administrador:** Rol encargado de gestionar la plantilla de doctores, los consultorios disponibles y las especialidades del consultorio.
 
 ## 👨‍👩‍👧‍👦 Integrantes del equipo
 - Flores Vargas Augusto Hazel
@@ -51,3 +51,6 @@ El sistema está respaldado por un modelo relacional compuesto por 7 entidades p
 | <img width="100%" alt="Modelo Relacional" src="https://github.com/user-attachments/assets/0b64e937-01b8-4f16-be8b-e4d9c297e45f" /><br>*Modelo Relacional* | <img width="100%" alt="Creacion de tablas 2" src="https://github.com/user-attachments/assets/b3a5b72d-1bc2-4be0-a3df-f07b73199082" /><br>*Creación de tablas (Parte 2)* |
 
 </details>
+
+##🔗Link de la demo
+https://sistemamedico-1gmy.onrender.com
