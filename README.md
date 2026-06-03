@@ -52,5 +52,5 @@ El sistema está respaldado por un modelo relacional compuesto por 7 entidades p
 
 </details>
 
-##🔗Link de la demo
+## 🔗 Link de la demo
 https://sistemamedico-1gmy.onrender.com
