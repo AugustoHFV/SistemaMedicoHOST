@@ -1,4 +1,4 @@
-package Controladordatos;
+ppackage Controladordatos;
 
 import java.io.InputStream;
 import java.sql.Connection;
@@ -32,7 +32,7 @@ public class Conexion {
             Class.forName("org.postgresql.Driver");
 
             // 3. Crear la conexión
-            String url = "jdbc:postgresql://sm_t0ry_user:nSESeYtHWZi4GvnFNjQfV8fsXzVZ3Qdp@dpg-d8frv6d8nd3s738v7s6g-a/sm_t0ry";
+            String url = "jdbc:postgresql://" + iphost + ":" + puerto + "/" + namedb;
             conexion = DriverManager.getConnection(url, usuario, contrasena);
             
             System.out.println("✅ ÉXITO: CONECTADO A POSTGRESQL (" + namedb + ")");
