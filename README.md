@@ -54,3 +54,14 @@ El sistema está respaldado por un modelo relacional compuesto por 7 entidades p
 
 ## 🔗 Link de la demo
 https://sistemamedico-1gmy.onrender.com
+
+## 👤 Usuarios de prueba:
+
+Administrador: admin@gmail.com
+Contraseña: 123321
+
+Doctor: Chapatin@gmail.com
+Contraseña: 123321
+
+Paciente: prueba2@gmail.com
+Contraseña: 123321
