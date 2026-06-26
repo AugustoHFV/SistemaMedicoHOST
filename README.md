@@ -68,5 +68,5 @@ Contraseña: 123321
 
 ## Pagina estatica 
 Link (https://warinsanomachine.github.io/sistema-medico-estatico/)
-Sesion de Administrador de la pagina estatica: admin@medico.com || Contraseña: Amdhn123
+Sesion de Administrador de la pagina estatica: admin@medico.com || Contraseña: Admin123
 Sesion de Medico de la pagina estatica: daniel@medico.com || Daniel123 
